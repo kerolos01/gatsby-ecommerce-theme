@@ -32,8 +32,8 @@ const IndexPage = () => {
         image={'/banner1.png'}
         title={'second updated branch'}
         subtitle={'updated by kerolos_201849'}
-        ctaText={'shop now'}
-        ctaAction={goToShop}
+        ctaText={'try this'}
+        ctaAction={goTotest}
       />
 
       {/* Message Container */}
